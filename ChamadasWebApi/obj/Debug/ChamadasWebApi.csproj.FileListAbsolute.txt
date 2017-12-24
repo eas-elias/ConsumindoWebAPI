@@ -1,0 +1,10 @@
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\obj\Debug\ChamadasWebApi.Form1.resources
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\obj\Debug\ChamadasWebApi.Properties.Resources.resources
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\obj\Debug\ChamadasWebApi.csproj.GenerateResource.Cache
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\bin\Debug\ChamadasWebApi.exe.config
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\bin\Debug\ChamadasWebApi.exe
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\bin\Debug\ChamadasWebApi.pdb
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\obj\Debug\ChamadasWebApi.exe
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\obj\Debug\ChamadasWebApi.pdb
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\ChamadasWebApi\ChamadasWebApi\obj\Debug\ChamadasWebApi.csprojResolveAssemblyReference.cache
